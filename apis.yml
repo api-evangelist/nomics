@@ -39,7 +39,6 @@ apis:
   - name: Nomics
     description: "Historical and realtime cryptocurrency prices and market data"
     humanURL: https://nomics.com/docs/
-    baseURL: https://nomics.com/docs/
     tags:
       - Cryptocurrency
     properties:
